@@ -1,7 +1,6 @@
 Mongo Atlas
-Username: CoderTau
-Password: tokyoManjiToman123
 
-mongodb+srv://CoderTau:<password>@cluster0.yntjafr.mongodb.net/?retryWrites=true&w=majority
+Username: YourUsername
+Password: YourPassWord
 
-mongodb+srv://CoderTau:<tokyoManjiToman123>@cluster0.yntjafr.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://YourUsername:YourPassword@cluster0.yntjafr.mongodb.net/?retryWrites=true&w=majority
